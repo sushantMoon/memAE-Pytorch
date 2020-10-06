@@ -22,6 +22,10 @@ Hope it helps others as well.
 
 [run.py](./run.py) : script which has training code, and validation code. It should be only used as a reference point. *Check for bugs, use at your own risk*. 
 
+# Major Requirements
 
+* PyTorch 1.6
+* Numpy 1.18.5
+* Pandas 1.0.5
 
 
